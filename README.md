@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building a fitness startup and releasing my next single
+- 🔭 I’m currently working on my next single
 - 🌱 I’m currently learning how to become a CTO
 - 👯 I’m looking to collaborate on Ethereum smart contracts
 - 🤔 I’m looking for help with architectural choices for backend
