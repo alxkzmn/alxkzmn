@@ -7,5 +7,3 @@
 - 📫 How to reach me: @alxkzmn on Twitter
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I wanted to become an astrophysicist
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alekskuzmin.alekskuzmin)
