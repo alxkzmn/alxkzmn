@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my next single
-- 🌱 I’m currently learning how to become a blockchain developer
-- 👯 I’m looking to collaborate on Ethereum smart contracts
-- 🤔 I’m looking for help with architectural choices for backend
+- 🔭 I’m currently working on a VR game in Unreal Engine 5
+- 🌱 I’m currently learning about Zero-Knowledge Proofs
+- 👯 I’m looking to collaborate on Web3 projects
+- 🤔 I’m looking for help with bringing some game developers into the team
 - 💬 Ask me about blockchain and sound production
 - 📫 How to reach me: @alxkzmn on Twitter
 - 😄 Pronouns: he/him/his
