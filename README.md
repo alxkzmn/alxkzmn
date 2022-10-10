@@ -14,6 +14,7 @@ I'm a full-stack blockchain developer learning about Zero-Knowledge Proofs. I go
 ### Publications
 
 * ZK-Wordle [Pt. 1](https://alexkuzmin.io/posts/zk-wordle-1/) and [Pt. 2](https://alexkuzmin.io/posts/zk-wordle-2/) - a series of articles on applied zero-knowledge proofs for software engineers, 2022
+* [How to Dive Into Web3 Development From a Good Enough Starting Point](https://alexkuzmin.io/posts/jumpstart-web3-development-2021/) - on my journey from Web2 to Web3, 2022
 
 ### Learning & Hacking
 
