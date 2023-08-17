@@ -1,10 +1,15 @@
 ## Hi there 👋 I'm Alex, ZKP and blockchain engineer
 
-I am currently working as a ZKP circuit engineer with the Privacy and Scaling Exploration team at the Ethereum Foundation. I earned my MSc in Electronic Engineering in 2008 and subsequently delved into academic research in applied maths while teaching low-level programming and digital signal processing. My engineering career officially started in 2011 when I began working as an embedded systems engineer. I shifted to mobile development in 2014, starting with Android and moving to cross-platform development using Flutter. In 2021, I transitioned to full-stack blockchain development and began learning about zero-knowledge proofs, which has become my primary professional interest. Beyond engineering, I take pleasure in making music and learning foreign languages.
+I am currently working as a ZKP circuit engineer with the Privacy and Scaling Exploration team at the Ethereum Foundation. 
+
+### Bio
+
+I earned my MSc in Electronic Engineering in 2008 and subsequently delved into academic research in applied maths while teaching low-level programming and digital signal processing. My engineering career officially started in 2011 when I began working as an embedded systems engineer. I shifted to mobile development in 2014, starting with Android and moving to cross-platform development using Flutter. In 2021, I transitioned to full-stack blockchain development and began learning about zero-knowledge proofs, which has become my primary professional interest. Beyond engineering, I take pleasure in making music and learning foreign languages.
 
 ### Projects
+
 * [Summa](https://github.com/summa-dev) - proof of solvency for centralized cryptocurrency exchanges.
-* [Sandscreener](https://github.com/sandscreener/sandscreener) - "proof of innocense" for Tornado Cash users.
+* [Sandscreener](https://github.com/sandscreener/sandscreener) - "proof of innocence" for Tornado Cash users.
 * [Smoothie](https://pub.dev/packages/smoothie) - a Dart package for plotting smooth graphs, 2020 [[source](https://github.com/kreitai/smoothie)].
 * Liquid Ruby - an all-purpose code generator based on Shopify liquid syntax, 2017 [[source](https://github.com/alxkzmn/liquid-ruby-generator)]
 
